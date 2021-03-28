@@ -1,0 +1,4 @@
+lisa;MB;Visa;1234567
+nora;MA;Mastercard;000665544
+john;MF;Visa;876543
+isla;2;MasterCard;44778
